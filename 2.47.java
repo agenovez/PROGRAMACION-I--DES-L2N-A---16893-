@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class RegistroDeVentas {
+public class RegistroDeVentasLim {
     public static void main(String[] args) {
         // Declaración de variables
         double montoVenta, iva, totalPagar, pagoCliente, cambio, totalCaja = 0;
