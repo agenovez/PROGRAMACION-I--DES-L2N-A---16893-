@@ -15,5 +15,23 @@ import java.util.Scanner;
 
 public class CalcularSalarioNeto {
 
-el nombre del archivo cambia a CalcularSalioNeto
+el nombre del archivo cambia a CalcularSalioNeto.java
+
+luego se compila con javac
+
+$javac CalcularSalarioNeto.java
+
+y se ejecuta con java
+
+$java CalcularSalarioNeto
+
+└─$ java CalcularSalarioNeto      
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+Ingrese el número de horas trabajadas en el mes: 200
+Ingrese el precio por hora trabajada: 16
+Sueldo bruto: USD 3680.00
+Impuestos: USD 1104.00
+Sueldo neto: USD 2576.00
+                                                                                                                                                                                                                                           
+
 
